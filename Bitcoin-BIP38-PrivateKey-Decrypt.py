@@ -1,5 +1,7 @@
 #!/usr/bin/python
 ####################################
+#Author: Pablo De Biase
+#https://github.com/pablodebiase/Bitcoin-BIP38-PrivateKey-Decrypt
 #This program takes an BIP38 private key and password
 #then generates a decrypted private key and Bitcoin Address
 
